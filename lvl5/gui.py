@@ -103,6 +103,5 @@ def modify_size(image_size):
    image_size.config(text="Size of 'compressed.bin' is " + updated_size + " bytes")
 
 if __name__== '__main__':
-
    start()    
 
