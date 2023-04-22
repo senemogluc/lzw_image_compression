@@ -1,2 +1,2 @@
-# lzw_image_compression
-Rookie Image Compression Program with GUI
+# Image/Text Compression via LZW Algorithm.
+Rookie Image Compression Program with GUI.
